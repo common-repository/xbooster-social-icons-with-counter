@@ -1,0 +1,10 @@
+
+/* path to the icon file should be relative to the css file where you place your css rules (this file) */
+.wpb-layout-element-button .icon-wpb-xbooster { background-image: url(../images/xbooster-icon.png); }
+ 
+/* .wpb_{shortcode_base} .wpb_element_wrapper selector can be used to add background image to VC shortcode block in the Visual Composer Editor working canvas */
+.wpb_xBooster_Social_Profiles .wpb_element_wrapper { background-image: url(../images/xbooster-icon.png); }
+
+ 
+/* .wpb_{shortcode_base} .wpb_element_wrapper selector can be used to add background image to VC shortcode block in the Visual Composer Editor working canvas */
+.wpb_xBooster_Social_Share .wpb_element_wrapper { background-image: url(../images/xbooster-icon.png); }

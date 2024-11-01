@@ -1,0 +1,78 @@
+.xbooster_social_share_container{
+
+	float:left;
+	
+	width:100%;
+	
+	
+}
+
+
+
+.xbsc_icon{
+
+	float:left;
+	padding:5px;
+	width: 50px;
+	height: 100%;
+	border:1px solid #efefef;
+}
+
+.xbsc_icon img {
+
+	width: 50px;
+
+}
+
+.xbsc_form_container{
+	
+	float:left;
+	width: 60%;
+	padding:5px;
+}
+
+.xbsc_checkbox_container{
+	float: left;
+	margin:20px 5px 0 5px;
+
+}
+
+.xbooster_admin_container{
+
+	background-color:#fff !important;
+	padding:10px;
+}
+
+.xbooster_sp_list_item{
+cursor:move;
+}
+
+.xbooster_ss_list_item{
+cursor:move;
+}
+.xbooster_box_title{
+
+padding: 5px;
+border:1px solid #efefef;
+
+}
+
+.xbooster_box_title h3{
+
+border-bottom:  1px solid #efefef;
+
+}
+.xbooster_row1{
+
+border-bottom:  1px solid #efefef;
+background-color: #fff;
+
+}
+
+.xbooster_row2{
+
+border-bottom:  1px solid #efefef;
+background-color: #f5f5f5;
+}
+
+

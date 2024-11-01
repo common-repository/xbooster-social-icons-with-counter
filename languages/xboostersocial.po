@@ -1,0 +1,369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xboostersocial\n"
+"POT-Creation-Date: 2013-12-23 12:37+0200\n"
+"PO-Revision-Date: 2013-12-23 12:37+0200\n"
+"Last-Translator: Cihangir BALTACI <acbaltaci@gmail.com>\n"
+"Language-Team: All Themes Nulled <admin@allthemesnulled.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-dashboard.php:7
+msgid "Social Profile Click Statistics"
+msgstr ""
+
+#: admin/admin-dashboard.php:19 admin/admin-dashboard.php:103
+msgid "Icon"
+msgstr ""
+
+#: admin/admin-dashboard.php:20 admin/admin-dashboard.php:104
+msgid "Social Network"
+msgstr ""
+
+#: admin/admin-dashboard.php:21 admin/admin-social-network-profiles.php:227
+msgid "Profile URL"
+msgstr ""
+
+#: admin/admin-dashboard.php:22 admin/admin-dashboard.php:105
+msgid "Status"
+msgstr ""
+
+#: admin/admin-dashboard.php:23 admin/admin-dashboard.php:66
+#: admin/admin-dashboard.php:106 admin/admin-dashboard.php:140
+msgid "Clicks"
+msgstr ""
+
+#: admin/admin-dashboard.php:49
+msgid "profile url"
+msgstr ""
+
+#: admin/admin-dashboard.php:51
+msgid "view"
+msgstr ""
+
+#: admin/admin-dashboard.php:58 admin/admin-dashboard.php:132
+msgid "disabled"
+msgstr ""
+
+#: admin/admin-dashboard.php:61 admin/admin-dashboard.php:135
+msgid "enabled"
+msgstr ""
+
+#: admin/admin-dashboard.php:91
+msgid "Social Sharing Click Statistics"
+msgstr ""
+
+#: admin/admin-display-options.php:249 admin/admin-first.php:14
+msgid "Display Settings"
+msgstr ""
+
+#: admin/admin-display-options.php:251
+msgid ""
+"There are different options to display Social Network Profile Icons and "
+"Social Network Sharing Icons."
+msgstr ""
+
+#: admin/admin-display-options.php:253
+msgid ""
+"Under Apperance > <a href=\"widgets.php\">Widgets</a> there are 2 widgets "
+"named xBooster Social Profiles and xBooster Social Share. \n"
+"\t\t\t\t\tPlace these widgets to any sidebar or widget area."
+msgstr ""
+
+#: admin/admin-display-options.php:256
+msgid "You can place the shortcodes on your posts or pages. "
+msgstr ""
+
+#: admin/admin-display-options.php:256
+msgid "and"
+msgstr ""
+
+#: admin/admin-display-options.php:257
+msgid "are the shortcodes that you will use."
+msgstr ""
+
+#: admin/admin-display-options.php:259
+msgid ""
+"If you want to implement this plugin your theme, best way to do it is using "
+"php function called do_shortcode. Anywhere on your bost body you can place "
+"the following code : "
+msgstr ""
+
+#: admin/admin-display-options.php:266
+msgid "Auto Placement"
+msgstr ""
+
+#: admin/admin-display-options.php:267
+msgid ""
+"There are great ways to display icons on your pages. And these are fully "
+"customizable. "
+msgstr ""
+
+#: admin/admin-display-options.php:272
+msgid "Social Profile Text"
+msgstr ""
+
+#: admin/admin-display-options.php:279 admin/admin-display-options.php:293
+#: admin/admin-display-options.php:316 admin/admin-display-options.php:330
+msgid "None"
+msgstr ""
+
+#: admin/admin-display-options.php:280 admin/admin-display-options.php:317
+msgid "Before"
+msgstr ""
+
+#: admin/admin-display-options.php:281 admin/admin-display-options.php:318
+msgid "After"
+msgstr ""
+
+#: admin/admin-display-options.php:282 admin/admin-display-options.php:319
+msgid "Before &amp; After"
+msgstr ""
+
+#: admin/admin-display-options.php:286 admin/admin-display-options.php:323
+msgid "Icon Size (inlude px or em information too. ie: 32px)"
+msgstr ""
+
+#: admin/admin-display-options.php:291
+msgid "Display Icons as Overlay"
+msgstr ""
+
+#: admin/admin-display-options.php:294 admin/admin-display-options.php:331
+msgid "Left"
+msgstr ""
+
+#: admin/admin-display-options.php:295 admin/admin-display-options.php:332
+msgid "Right"
+msgstr ""
+
+#: admin/admin-display-options.php:301 admin/admin-display-options.php:339
+msgid "Yes"
+msgstr ""
+
+#: admin/admin-display-options.php:302 admin/admin-display-options.php:340
+msgid "No"
+msgstr ""
+
+#: admin/admin-display-options.php:309
+msgid "Social Sharing Text"
+msgstr ""
+
+#: admin/admin-display-options.php:314
+msgid "Display Icons Before/After Content"
+msgstr ""
+
+#: admin/admin-display-options.php:337
+msgid "Show Counter?"
+msgstr ""
+
+#: admin/admin-first.php:2
+msgid "xBooster Social Plugin"
+msgstr ""
+
+#: admin/admin-first.php:5
+msgid "Dashboard"
+msgstr ""
+
+#: admin/admin-first.php:8 admin/admin-social-network-profiles.php:5
+msgid "Social Network Profiles"
+msgstr ""
+
+#: admin/admin-first.php:11 admin/admin-social-sharing.php:65
+msgid "Social Sharing"
+msgstr ""
+
+#: admin/admin-sidebar.php:4
+msgid "Thank You!"
+msgstr ""
+
+#: admin/admin-sidebar.php:9
+msgid ""
+"Thank you for buying xBooster Social Plugin. Please click here to get latest "
+"version of plugin free."
+msgstr ""
+
+#: admin/admin-sidebar.php:10
+msgid "Get Free Update"
+msgstr ""
+
+#: admin/admin-sidebar.php:15
+msgid "Support"
+msgstr ""
+
+#: admin/admin-sidebar.php:17
+msgid ""
+"Please feel free to contact us for any questions realed xBooster Social "
+"Plugin"
+msgstr ""
+
+#: admin/admin-sidebar.php:18
+msgid "Contact Us"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:5
+msgid "Add New"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:231
+msgid "Custom Icon URL (Please enter full URL of your custom icon for"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:235
+msgid "Update"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:261
+msgid "Add New Social Network &amp; Profile"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:261
+msgid "Top"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:266
+msgid "Social Network ID"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:268
+msgid ""
+"ID must be unique or will not work properly (only lowercase letters and "
+"numbers, no spaces or special chars)"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:271
+msgid "Social Network Name"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:276
+msgid "Social Network Icon URL"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:278
+msgid ""
+"http://yourdomain.com/full/url/of/yourimage.svg (all kind of images are "
+"acceptable)"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:281
+msgid "Social Network Profile URL"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:286
+msgid "Enable This Social Network?"
+msgstr ""
+
+#: admin/admin-social-network-profiles.php:291
+msgid "Add New Social Network Profile"
+msgstr ""
+
+#: admin/admin-social-sharing.php:67
+msgid "xBooster is currently supporting"
+msgstr ""
+
+#: admin/admin-social-sharing.php:67
+msgid ""
+"social networks. Please be sure you have the <a href=\"http://www."
+"themeforest.net?ref=acbaltaci\" target=\"blank\">latest version of the "
+"plugin</a> for get more networks. Check the boxes on the left of the \n"
+"\t\t\t\tsocial network and click Save Settings button to update social "
+"sharing networks on your website. Also you can change the Social Network "
+"Icon too."
+msgstr ""
+
+#: admin/admin-social-sharing.php:115
+msgid "Custom Icon URL"
+msgstr ""
+
+#: admin/admin-social-sharing.php:130
+msgid "Save Settings"
+msgstr ""
+
+#: inc/vcmap-functions.php:8 inc/widget-functions.php:13
+msgid "xBooster Social Profiles"
+msgstr ""
+
+#: inc/vcmap-functions.php:12 inc/vcmap-functions.php:52
+msgid "Content"
+msgstr ""
+
+#: inc/vcmap-functions.php:20 inc/vcmap-functions.php:60
+msgid "Icon Size"
+msgstr ""
+
+#: inc/vcmap-functions.php:22 inc/vcmap-functions.php:62
+msgid "32"
+msgstr ""
+
+#: inc/vcmap-functions.php:23 inc/vcmap-functions.php:63
+msgid "Please enter icon size with px or em etc.."
+msgstr ""
+
+#: inc/vcmap-functions.php:29 inc/vcmap-functions.php:69
+msgid "Title"
+msgstr ""
+
+#: inc/vcmap-functions.php:31
+msgid "Follow Us"
+msgstr ""
+
+#: inc/vcmap-functions.php:32 inc/vcmap-functions.php:72
+msgid "Enter title, leave blank to disable.."
+msgstr ""
+
+#: inc/vcmap-functions.php:38 inc/vcmap-functions.php:78
+#: inc/widget-functions.php:133 inc/widget-functions.php:297
+msgid "Display Counter"
+msgstr ""
+
+#: inc/vcmap-functions.php:40 inc/vcmap-functions.php:80
+msgid "yes"
+msgstr ""
+
+#: inc/vcmap-functions.php:40 inc/vcmap-functions.php:80
+msgid "no"
+msgstr ""
+
+#: inc/vcmap-functions.php:41 inc/vcmap-functions.php:81
+msgid "To show counter select yes"
+msgstr ""
+
+#: inc/vcmap-functions.php:48
+msgid "xBooster Social Sharing"
+msgstr ""
+
+#: inc/vcmap-functions.php:71
+msgid "Share This"
+msgstr ""
+
+#: inc/widget-functions.php:14
+msgid ""
+"Displays social profiles icons which defined in xBooster Plugin settings."
+msgstr ""
+
+#: inc/widget-functions.php:102 inc/widget-functions.php:266
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widget-functions.php:106 inc/widget-functions.php:270
+msgid "Icon Size (with px or em etc)"
+msgstr ""
+
+#: inc/widget-functions.php:119 inc/widget-functions.php:283
+msgid "Display Title"
+msgstr ""
+
+#: inc/widget-functions.php:179
+msgid "xBooster Social Share"
+msgstr ""
+
+#: inc/widget-functions.php:180
+msgid ""
+"Displays social sharing icons which defined in xBooster Plugin settings."
+msgstr ""

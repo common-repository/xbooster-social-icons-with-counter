@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="400px" viewBox="0 0 300 400" enable-background="new 0 0 300 400" xml:space="preserve">
+<path fill="#E6E6E6" d="M293,46c0,6.627-5.373,12-12,12H17c-6.627,0-12-5.373-12-12V21c0-6.627,5.373-12,12-12h264
+	c6.627,0,12,5.373,12,12V46z"/>
+<path fill="#E6E6E6" d="M293,76.5c0,4.694-3.806,8.5-8.5,8.5h-271C8.806,85,5,81.194,5,76.5l0,0c0-4.694,3.806-8.5,8.5-8.5h271
+	C289.194,68,293,71.806,293,76.5L293,76.5z"/>
+<path fill="#E6E6E6" d="M210,308c0,6.627-5.373,12-12,12H17c-6.627,0-12-5.373-12-12V126c0-6.627,5.373-12,12-12h181
+	c6.627,0,12,5.373,12,12V308z"/>
+<path fill="#666666" stroke="#000000" stroke-miterlimit="10" d="M210.5,99.75c0,3.728-3.022,6.75-6.75,6.75H12.25
+	c-3.728,0-6.75-3.022-6.75-6.75v-0.5c0-3.728,3.022-6.75,6.75-6.75h191.5c3.728,0,6.75,3.022,6.75,6.75V99.75z"/>
+<path fill="#666666" stroke="#000000" stroke-miterlimit="10" d="M210.5,333.75c0,3.729-3.022,6.75-6.75,6.75H12.25
+	c-3.728,0-6.75-3.021-6.75-6.75v-0.5c0-3.729,3.022-6.75,6.75-6.75h191.5c3.728,0,6.75,3.021,6.75,6.75V333.75z"/>
+<path fill="#E6E6E6" d="M293,329c0,6.627-5.373,12-12,12h-49c-6.627,0-12-5.373-12-12V105c0-6.627,5.373-12,12-12h49
+	c6.627,0,12,5.373,12,12V329z"/>
+<path fill="#E6E6E6" d="M289,380c0,6.627-5.373,12-12,12H17c-6.627,0-12-5.373-12-12v-17c0-6.627,5.373-12,12-12h260
+	c6.627,0,12,5.373,12,12V380z"/>
+<text transform="matrix(1 0 0 1 128 33.5)" font-family="'ComicSansMS'" font-size="12">Header</text>
+<text transform="matrix(1 0 0 1 123 371.5)" font-family="'ComicSansMS'" font-size="12">Footer</text>
+<text transform="matrix(1 0 0 1 238 203.5)" font-family="'ComicSansMS'" font-size="12">Sidebar</text>
+<text transform="matrix(1 0 0 1 84 217)" font-family="'ComicSansMS'" font-size="12">Content</text>
+<text transform="matrix(1 0 0 1 134 79.5)" font-family="'ComicSansMS'" font-size="12">Title</text>
+</svg>
